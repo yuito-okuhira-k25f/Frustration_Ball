@@ -1,0 +1,10 @@
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+x64/
+[Rr]elase/
+[Dd]ebug/
+[Bb]in/
+[Tt]emp/
+[Ll]og/
+Log.txt
